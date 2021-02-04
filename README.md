@@ -1,4 +1,4 @@
-# Please fork this project to make your work invisible to other candidates :)
+# Please don't fork this project anymore, but [duplicate](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) it to make your work invisible to other candidates, then send the link to me by e-mail.
 
 # Technical test
 
@@ -26,7 +26,7 @@ The Customer Success team, managed by Ramzi needs an application to manage and f
 * The project is in english, but feel free to **answer with any language your comfortable with**. _Why English then and not French ? Because it is beaucoup plus cool quand même ..._
 * **There is no time limit**. You can work on it 20 minutes or few days. Just tell us, when you delivered your code, how much time you did pass on each part of the test to let us appreciate the quality of the answer versus the time you worked on it. _On average, you can expect to work about 4 hours on it._
 * Use the **graphical kit** we used on the app : [Tabler](https://preview.tabler.io/).
-* Just **fork this git repository** and work on yours.
+* Just [**duplicate this git repository**](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository) and work on yours.
 * When you are done with your app, **send the git URL to me** : [thibault@fidcar.com](mailto:thibault@fidcar.com).
 * Of course, this app is totally fictional. **Your work is yours only and will never be used** in any other context than having a preview of your capacities for the job you applied for.
 
